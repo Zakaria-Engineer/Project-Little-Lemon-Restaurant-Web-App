@@ -19,9 +19,8 @@ This repository contains the code for the Little Lemon Restaurant Web Applicatio
 ---
 
 ## 📜 Table of Contents
-- ✨ Little Lemon Restaurant Website
+
 - 🚀 Project Overview
-- 📸 Screenshots
 - ⚙️ Core Features
 - 🛠️ Technology Stack
 - 📦 Setup & Installation
