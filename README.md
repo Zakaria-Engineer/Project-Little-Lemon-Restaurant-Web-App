@@ -54,7 +54,6 @@ This repository contains the code for the Little Lemon Restaurant Web Applicatio
 
 -   **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
 -   **Routing:** React Router
--   **Styling:** CSS 
 -   **Testing:** Jest, React Testing Library
 -   **Version Control:** Git, GitHub
 -   **Package Management:** npm 
